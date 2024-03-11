@@ -1,10 +1,10 @@
-# Project Title
+# Degen Token
 
-Simple overview of use/purpose.
+Degen Token is a token for reward for Degen Gamers
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Degen tokens are token that are used to purchase items in an in-game marketplace while gaming.
 
 ## Getting Started
 
